@@ -5,6 +5,7 @@ Separate repository for the hardware used in the SlobGCC, a modified PhobGCC for
 This is my first time ever using a PCB software so I hope I didn't screw anything up.
 
 ### Front
-![image](https://user-images.githubusercontent.com/22358804/194213602-9cf127f7-b0a1-4a84-9497-ae444176e563.png)
+![image](https://user-images.githubusercontent.com/22358804/194221483-8195e201-9850-43bb-872c-72fafb3978fa.png)
+
 ### Back
-![image](https://user-images.githubusercontent.com/22358804/194213621-c909c1e6-4b2d-40cd-9610-127a01085565.png)
+![image](https://user-images.githubusercontent.com/22358804/194221531-a8a2cc82-1e07-4d83-a107-75409fdf0cf8.png)
