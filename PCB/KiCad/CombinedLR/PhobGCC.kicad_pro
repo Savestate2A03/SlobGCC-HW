@@ -396,14 +396,16 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "+3V3": "rgb(255, 131, 156)"
+    }
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "PhobGCC.dsn",
       "step": "PhobGCC.step",
       "vrml": ""
     },
